@@ -4,3 +4,10 @@
 
 ## Рузультати виконання програми
 ![5-1 result](https://github.com/whiteman1989/Python_lab_work_5/blob/master/images/work_res_5-1.jpg?raw=true)
+
+# Лабораторна робта №5-2
+- Присвоїти всім елементам матриці А значення 9.
+- Вивести на екран.
+
+## Рузультати виконання програми
+![5-2 result](https://github.com/whiteman1989/Python_lab_work_5/blob/master/images/work_res_5-2.jpg?raw=true)

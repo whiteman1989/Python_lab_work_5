@@ -11,3 +11,14 @@
 
 ## Рузультати виконання програми
 ![5-2 result](https://github.com/whiteman1989/Python_lab_work_5/blob/master/images/work_res_5-2.jpg?raw=true)
+
+## Рузультати виконання програми
+![5-1 result](https://github.com/whiteman1989/Python_lab_work_5/blob/master/images/work_res_5-1.jpg?raw=true)
+
+# Лабораторна робта №5-3
+- Присвоїти елементам, що знаходяться на головній діагоналі, що проходить з лівого верхнього кута в правий нижній (тобто тих елементів A [i] [j], для яких i == j) значення 3,
+- елементам, що знаходяться вище головної діагоналі - значення 4,
+- елементів, що знаходяться нижче головної діагоналі - значення 5. Програму написати  трьома способами.
+
+## Рузультати виконання програми
+![5-3 result](https://github.com/whiteman1989/Python_lab_work_5/blob/master/images/work_res_5-3.jpg?raw=true)

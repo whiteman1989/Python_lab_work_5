@@ -22,3 +22,11 @@
 
 ## Рузультати виконання програми
 ![5-3 result](https://github.com/whiteman1989/Python_lab_work_5/blob/master/images/work_res_5-3.jpg?raw=true)
+
+# Лабораторна робта №5-4
+- Дано список А = [[1,7,№],[8,№,29],[№,2,4]]. Де № - остання цифра у списку групи.
+- Введіть список з екрану. Знайти мінімальне значення між елементами другого стовпчика.
+- Вивести отримані значення.
+
+## Рузультати виконання програми
+![5-4 result](https://github.com/whiteman1989/Python_lab_work_5/blob/master/images/work_res_5-4.jpg?raw=true)
